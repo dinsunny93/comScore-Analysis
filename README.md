@@ -1,2 +1,2 @@
 # comScore-Analysis
-d
+Exploratory Data Analysis on App Usage data.
